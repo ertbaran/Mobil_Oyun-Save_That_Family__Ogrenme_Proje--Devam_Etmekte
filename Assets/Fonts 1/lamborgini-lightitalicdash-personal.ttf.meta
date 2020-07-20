@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 463f868cb7751e743a20efad4dac2ff1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lamborgini
+  fontNames:
+  - Lamborgini
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 74b38cc10dff58748b650a4fb7469c9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

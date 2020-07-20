@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: dc42f8c1100fd664e8389f35a7ebf53e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lamborgini
+  fontNames:
+  - Lamborgini
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8bf1dd40c41c15b499c753a0ff0e9fe3, type: 3}
+  - {fileID: 12800000, guid: b9e92c6122aa9ce4681a67642250b3ea, type: 3}
+  - {fileID: 12800000, guid: 74b38cc10dff58748b650a4fb7469c9a, type: 3}
+  - {fileID: 12800000, guid: 7a3a26a27072c0748a3b75fc34c04f2e, type: 3}
+  - {fileID: 12800000, guid: fb33b1b3161e624468d295a2b07fbebe, type: 3}
+  - {fileID: 12800000, guid: ea55b33402297174f873e9aaa6869b49, type: 3}
+  - {fileID: 12800000, guid: e6e7d67655e3e6d41b8b90151987baf4, type: 3}
+  - {fileID: 12800000, guid: 79b50788d549e664fb7e0d13661f7670, type: 3}
+  - {fileID: 12800000, guid: dcf06afae2659454f81c706587a3e8e0, type: 3}
+  - {fileID: 12800000, guid: 463f868cb7751e743a20efad4dac2ff1, type: 3}
+  - {fileID: 12800000, guid: 288b1abc5742a7540aa25fb8353d63e9, type: 3}
+  - {fileID: 12800000, guid: d9fef70df67291b42be26f1d972972da, type: 3}
+  - {fileID: 12800000, guid: 5821301f162c14f49a9c36b5867519d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
